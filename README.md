@@ -7,7 +7,7 @@
 - 💬 Ask me about C/C++/Python/SQL/MySQL or any tech related stuff
 - 📫 How to reach me: www.linkedin.com/in/roselle-m-a47962149
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I grew up by the beach but I don't know how to swim
+- ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
