@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
 
-## Project Links
+## Project Links (read file readme.md for information to run the project)
 
 Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 <!--
