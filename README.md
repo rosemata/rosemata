@@ -11,13 +11,9 @@
 
 ## Project Links 
 
-Python
+Python - Virtual Canvas using turtle: https://trinket.io/library/trinkets/e905a53257
 
-Virtual Canvas using turtle: https://trinket.io/library/trinkets/e905a53257
-
-C++
-
-Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
+C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
