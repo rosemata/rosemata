@@ -12,9 +12,9 @@
 
 ## Project Links 
 
-Python - Virtual Canvas using turtle: https://trinket.io/library/trinkets/e905a53257
+Python - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257
 
-Python - Avoid-the-Asteroids-Catch-the-Stars Game: https://trinket.io/library/trinkets/a351b4e750
+Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750
 
 C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
