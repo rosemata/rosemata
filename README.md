@@ -8,6 +8,10 @@
 - 📫 How to reach me: www.linkedin.com/in/roselle-m-a47962149
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
+
+## Project Links
+
+Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
