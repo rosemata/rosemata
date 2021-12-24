@@ -18,6 +18,8 @@ Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/l
 
 C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
+C++ - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
+
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
