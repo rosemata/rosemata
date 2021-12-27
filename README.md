@@ -18,11 +18,11 @@ Python - Virtual Canvas Project using turtle: https://trinket.io/library/trinket
 
 Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750
 
-- ▶️ How to run: Click Run **>** Use Left or Right arrow keys to play
+- ▶️ How to run: Click Run ➡️ Use Left or Right arrow keys to play
 
 C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
-- ▶️ How to run: Click Console > Type "make build" > Type "make run"
+- ▶️ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 C++ - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 
