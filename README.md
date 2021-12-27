@@ -22,7 +22,7 @@ Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/l
 
 C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
-- ▶️ How to run:
+- ▶️ How to run: Click Console > Type "make build" > Type "make run"
 
 C++ - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 
