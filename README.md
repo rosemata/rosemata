@@ -26,7 +26,7 @@ C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
 C++ - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 
-- ▶️ How to run:
+- ▶️ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
