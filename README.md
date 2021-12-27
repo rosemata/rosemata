@@ -14,7 +14,7 @@
 
 Python - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257
 
-- 
+- ▶️ How to run:
 
 Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750
 
