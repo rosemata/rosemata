@@ -14,19 +14,19 @@
 
 Python - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257
 
-- ▶️ How to run: Click Run
+- ▶ How to run: Click Run
 
 Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750
 
-- ▶️ How to run: Click Run ➡️ Use Left or Right arrow keys to play
+- ▶ How to run: Click Run ➡️ Use Left or Right arrow keys to play
 
 C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
-- ▶️ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
+- ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 C++ - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 
-- ▶️ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
+- ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
