@@ -14,29 +14,29 @@
 
 **Python**
 
-- 1.) Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
+- Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
 
   ▶ How to run: Click Run
 
-- 2.) Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
+- Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
 
   ▶ How to run: Click Run ➡️ Use Left or Right arrow keys to catch the stars for points
   
 **C++**
 
-- 3.) Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
+- Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
-- 4.) Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
+- Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
-- 5.) DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
+- DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
  
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
-- 6.) ATM Application
+- ATM Application
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
