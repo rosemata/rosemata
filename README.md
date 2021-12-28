@@ -18,7 +18,7 @@
 
 - 2.) Python - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
 
-  ▶ How to run: Click Run ➡️ Use Left or Right arrow keys to play
+  ▶ How to run: Click Run ➡️ Use Left or Right arrow keys to catch the stars for points
 
 - 3.) C++ - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
