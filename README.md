@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
 
 ## Project Links 
-# Python
+
+**Python**
 
 - 1.) Python - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
 
