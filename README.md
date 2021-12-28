@@ -16,10 +16,14 @@
 
 - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
 
+  🔎 Project Information: 
+  
   ▶ How to run: Click Run
 
 - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
 
+  🔎 Project Information: 
+  
   ▶ How to run: Click Run ➡️ Use Left or Right arrow keys to catch the stars for points
   
 **C++**
