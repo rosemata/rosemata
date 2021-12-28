@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
 
 ## Project Links 
+# Python
 
 - 1.) Python - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
 
@@ -29,8 +30,10 @@
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
 - 5.) C++ - DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
-- 
+ 
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
+  
+- 6.) C++ - ATM Application
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
