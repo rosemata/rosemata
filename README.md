@@ -30,14 +30,20 @@
 
 - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
+  🔎 Project Information: 
+  
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 
+  🔎 Project Information: 
+  
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
 - DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
  
+  🔎 Project Information: 
+  
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
 - ATM Application
