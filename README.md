@@ -28,7 +28,9 @@
 
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
-- 5.) C++ - Implementation of map class: 
+- 5.) C++ - DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
+- 
+  ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
