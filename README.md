@@ -49,11 +49,12 @@
 - ATM Application
 
 **C**
+
  - Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
 
   🔎 Project Information: 
   
-  ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
+  ▶ How to run: ➡️ Click run
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
