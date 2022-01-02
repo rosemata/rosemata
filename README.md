@@ -15,34 +15,24 @@
 **Python**
 
 - Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
-
-  🔎 Project Information: 
   
   ▶ How to run: Click Run
 
 - Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
-
-  🔎 Project Information: 
   
   ▶ How to run: Click Run ➡️ Use Left or Right arrow keys to catch the stars for points
   
 **C++**
 
 - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
-
-  🔎 Project Information: 
   
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
 
 - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
-
-  🔎 Project Information: 
   
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
 - DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
- 
-  🔎 Project Information: 
   
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
@@ -51,8 +41,6 @@
 **C**
 
  - Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
-
-  🔎 Project Information: 
   
   ▶ How to run: ➡️ Click run
 
