@@ -36,7 +36,6 @@
   
   ▶ How to run: Click Console ➡️ Type "make build" ➡️ Type "make run"
   
-- ATM Application
 
 **C**
 
