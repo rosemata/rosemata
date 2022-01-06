@@ -4,7 +4,7 @@
 - 🔭 Working on building my GitHub
 - 🌱 Currently learning Java
 - 👯 Looking to collaborate on any Entry Level Project
-- 🤔 I’m looking for help landing an internship
+- 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/Apple Products or any tech related stuff
 - 📫 How to reach me: http://www.linkedin.com/in/rosellemata
 - 😄 Pronouns: She/Her/Hers
