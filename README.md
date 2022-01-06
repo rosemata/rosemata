@@ -3,7 +3,7 @@
 - 👩🏻‍💻 Product Specialist at Apple
 - 🔭 Working on building my GitHub
 - 🌱 Currently learning Java
-- 👯 I’m looking to collaborate on any Entry Level Project
+- 👯 Looking to collaborate on any Entry Level Project
 - 🤔 I’m looking for help landing an internship
 - 💬 Ask me about C/C++/Python/Apple Products or any tech related stuff
 - 📫 How to reach me: http://www.linkedin.com/in/rosellemata
