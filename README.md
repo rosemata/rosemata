@@ -5,8 +5,8 @@
 - 🌱 Currently learning Java
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
-- 💬 Ask me about C/C++/Python/Apple Products or any tech related stuff
-- 📫 How to reach me: http://www.linkedin.com/in/rosellemata
+- 💬 Ask me about C/C++/Python/SQL/Apple Products or any tech related stuff
+- 📫 Reach me: http://www.linkedin.com/in/rosellemata or roselle.tmata@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
 
