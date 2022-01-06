@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Product Specialist at Apple
 - 🔭 Working on building my GitHub
-- 🌱 I’m currently learning Java
+- 🌱 Currently learning Java
 - 👯 I’m looking to collaborate on any Entry Level Project
 - 🤔 I’m looking for help landing an internship
 - 💬 Ask me about C/C++/Python/Apple Products or any tech related stuff
