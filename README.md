@@ -8,7 +8,7 @@
 - 💬 Ask me about C/C++/Python/SQL/Apple Products or any tech related stuff
 - 📫 Reach me: http://www.linkedin.com/in/rosellemata or roselle.tmata@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I grew up in a small island in the Philippiens but I don't know how to swim
+- ⚡ Fun fact: I grew up in an island but I don't know how to swim
 
 ## Project Links 
 
