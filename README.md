@@ -1,7 +1,7 @@
 ### Hi, I'm Roselle Mata! 👋
 
 - 👩🏻‍💻 Product Specialist at Apple
-- 🔭 I’m currently working on building my GitHub
+- 🔭 Working on building my GitHub
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any Entry Level Project
 - 🤔 I’m looking for help landing an internship
