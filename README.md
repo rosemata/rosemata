@@ -7,6 +7,7 @@
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Apple Products or any tech related stuff
 - 📫 Reach me: http://www.linkedin.com/in/rosellemata or roselle.tmata@gmail.com
+- 📝 Resume: http://www.linkedin.com/in/rosellemata
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I grew up in an island but I don't know how to swim
 
