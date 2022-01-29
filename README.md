@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Product Specialist at Apple
 - 🔭 Working on building my GitHub
-- 🌱 Currently learning Java, Rust and F#
+- 🌱 Currently learning Java and Rust
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Apple Products or any tech related stuff
