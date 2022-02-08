@@ -43,6 +43,13 @@
  - Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
   
   ▶ How to run: ➡️ Click run
+ 
+ 
+**SQL + Pthon**
+
+- Analyzing Chicago Transit Authority in Python: 
+
+- ▶ How to run: ➡️ Click run
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
