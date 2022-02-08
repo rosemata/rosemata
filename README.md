@@ -47,7 +47,7 @@
  
 **SQL + Pthon**
 
-- Analyzing Chicago Transit Authority in Python: 
+- Analyzing Chicago Transit Authority in Python: https://replit.com/join/dtemwcclhn-rosellemata2
 
 - ▶ How to run: ➡️ Click run
 
