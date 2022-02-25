@@ -23,11 +23,11 @@
 
 - Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 
-  to run input "make build"
-  
-  input "make run"
-
 - Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
+
+    to run input "make build"
+
+    input "make run"
   
 - DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
   
