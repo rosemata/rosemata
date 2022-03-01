@@ -1,11 +1,11 @@
 ### Hi, I'm Roselle Mata! 👋
 
-- 👩🏻‍💻 Product Specialist at Apple
+- 👩🏻‍💻 Senior Computer Science student 
 - 🔭 Working on building my GitHub
-- 🌱 Currently learning Rust
+- 🌱 Currently learning Rust and F#
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
-- 💬 Ask me about C/C++/Python/SQL/Apple Products or any tech related stuff
+- 💬 Ask me about C/C++/Python/SQL/Java or any tech related stuff
 - 📫 Reach me: http://www.linkedin.com/in/rosellemata or roselle.tmata@gmail.com
 - 📝 Resume: https://drive.google.com/file/d/1MpenaXC_Ec1VGO-jbKICI0gfOr-yupBk/view?usp=sharing
 - 😄 Pronouns: She/Her/Hers
