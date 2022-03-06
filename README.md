@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Senior Computer Science student 
 - 🔭 Working on building my GitHub
-- 🌱 Currently learning Rust and F#
+- 🌱 Currently learning F#
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Java or any tech related stuff
