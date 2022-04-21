@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Senior Computer Science student 
 - 🔭 I used to work as Airport Passenger Assistant, Starbucks Barista, Intern at Adams Street Partner, & Specialist at Apple
-- 🌱 Currently learning F#
+- 🌱 Currently learning F#, Rust, Processing, Arduino 
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Java or any tech related stuff
