@@ -1,7 +1,7 @@
 ### Hi, I'm Roselle Mata! 👋
 
 - 👩🏻‍💻 Senior Computer Science student 
-- 🔭 Working on building my GitHub
+- 🔭 I used to work as Airport Passenger Assistant, Starbucks Barista, Intern at Adams Street Partner, & Specialist at Apple
 - 🌱 Currently learning F#
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
