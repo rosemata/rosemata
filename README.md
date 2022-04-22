@@ -1,12 +1,10 @@
-### Hi, I'm Roselle Mata! 👋 👩🏻‍💻 Senior Computer Science student 
-
-# Experience working as 
+### Hi, I'm Roselle Mata! 👋 Experience working as 
 - Airport Passenger Assistant (1 year + 2 months)
 - Starbucks Barista (2 years)
 - Intern at Adams Street Partners (3 months)
 - Product Specialist at Apple (4 months - Seasonal)
 
-
+### 👩🏻‍💻 Senior Computer Science student 
 - 🌱 Currently learning F#, Rust, Processing, Arduino 
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
