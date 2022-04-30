@@ -49,7 +49,7 @@
 
 - Keno Game: https://github.com/rosemata/Keno-Game
 
-- Coffee Maker: 
+- Coffee Maker: https://github.com/rosemata/Coffee-Maker
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
