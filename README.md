@@ -45,7 +45,7 @@
 - Analyzing Chicago Transit Authority in Python: https://replit.com/join/dtemwcclhn-rosellemata2
  
  
-**Java
+**Java**
 
 - Keno Game: https://github.com/rosemata/Keno-Game
 
