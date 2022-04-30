@@ -43,6 +43,13 @@
 **SQL + Pthon**
 
 - Analyzing Chicago Transit Authority in Python: https://replit.com/join/dtemwcclhn-rosellemata2
+ 
+ 
+**Java
+
+- Keno Game: https://github.com/rosemata/Keno-Game
+
+- Coffee Maker: 
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
