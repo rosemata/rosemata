@@ -1,5 +1,4 @@
-### Hi, I'm Roselle Mata!👋 
-## I came to the U.S. when I was 15. I was raised by a single mother of four, and so I've been working and going to school since I was 16. I've been supporting myself through college and I aspire to help the world become a better place through technology. 
+### Hi, I'm Roselle Mata!👋 I came to the U.S. when I was 15. I was raised by a single mother of four, and so I've been working and going to school since I was 16. I've been supporting myself through college and I aspire to help the world become a better place through technology. 
 
 
 ### I have Experience working as 
