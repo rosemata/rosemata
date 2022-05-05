@@ -1,7 +1,4 @@
-### Hi, I'm Roselle Mata!👋 I came to the U.S. when I was 15. I was raised by a single mother of four, and so I've been working and going to school since I was 16. I've been supporting myself through college and I aspire to help the world become a better place through technology. 
-
-
-### I have Experience working as 
+### Hi, I'm Roselle Mata!👋 I have Experience working as 
 - Airport Passenger Assistant (1 year + 2 months)
 - Starbucks Barista (2 years)
 - Intern at Adams Street Partners (3 months)
@@ -58,6 +55,10 @@
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I came to the U.S. when I was 15. I was raised by a single mother of four, and so I've been working and going to school since I was 16. I've been supporting myself through college and I aspire to help the world become a better place through technology. 
+
+
+###
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
