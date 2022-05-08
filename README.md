@@ -21,7 +21,7 @@
 **2021**
 
 - SQL + Python : Analyzing Chicago Transit Authority database in Python: https://replit.com/join/dtemwcclhn-rosellemata2
-- Arduino + Python: Input based game control with Arduino buttons and Python: 
+- Arduino + Python: Input based game control with Arduino buttons and Python: https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
 - Java : Keno Game: https://github.com/rosemata/Keno-Game
 - Java : Coffee Maker App: https://github.com/rosemata/Coffee-Maker
 
