@@ -33,6 +33,7 @@
 - C++ : DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
 - C : Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
 - C : Input Based Array Project : https://github.com/rosemata/Input-Based-Array-Project
+- C : Functions-operating-on-2D-Arrays-and-Strings : https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
 
 **2020**
 
