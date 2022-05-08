@@ -32,6 +32,7 @@
 - C++ : Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 - C++ : DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
 - C : Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
+- C : Input Based Array Project : https://github.com/rosemata/Input-Based-Array-Project
 
 **2020**
 
