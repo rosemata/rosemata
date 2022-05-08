@@ -44,7 +44,7 @@
  
 **SQL + Pthon**
 
-- Analyzing Chicago Transit Authority in Python: https://replit.com/join/dtemwcclhn-rosellemata2
+- Analyzing Chicago Transit Authority database in Python: https://replit.com/join/dtemwcclhn-rosellemata2
  
  
 **Java**
