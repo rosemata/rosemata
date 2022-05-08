@@ -24,7 +24,7 @@
 - Arduino + Python: Input based game control with Arduino buttons and Python: https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
 - Java : Keno Game: https://github.com/rosemata/Keno-Game
 - Java : Coffee Maker App: https://github.com/rosemata/Coffee-Maker
-- F# + Processing: Image Processing with F#: 
+- F# : Image Processing with F#: https://github.com/rosemata/Image-Processing
 
 **2021**
 
