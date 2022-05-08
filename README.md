@@ -80,10 +80,10 @@ I came to the U.S. when I was 15. I was raised by a single mother of four, and s
 **2021**
 
 <!-- **Python** -->
-
+<!-- 
 - SQL + Python : Analyzing Chicago Transit Authority database in Python: https://replit.com/join/dtemwcclhn-rosellemata2
-- Arduino + Python: Input based game control with Arduino buttons and Python: 
-
+- Arduino + Python: Input based game control with Arduino buttons and Python:  -->
+<!-- 
 **2021**
 
 
@@ -122,7 +122,7 @@ I came to the U.S. when I was 15. I was raised by a single mother of four, and s
 
 **F#**
 
-- 
+-  -->
 
 <!--
 **rosemata/rosemata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
