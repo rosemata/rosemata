@@ -20,7 +20,7 @@
 
 ## Projects
 
-**2021**
+**2022**
 
 - SQL + Python : Analyzing Chicago Transit Authority database in Python: https://replit.com/join/dtemwcclhn-rosellemata2
 - Arduino + Python: Input based game control with Arduino buttons and Python: https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
