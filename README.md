@@ -27,6 +27,7 @@
 - Java : Keno Game: https://github.com/rosemata/Keno-Game
 - Java : Coffee Maker App: https://github.com/rosemata/Coffee-Maker
 - F# : Image Processing with F#: https://github.com/rosemata/Image-Processing
+- C : Build simple shell compiler with C
 
 **2021**
 
