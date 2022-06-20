@@ -1,6 +1,6 @@
 ### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
 
-- 🌱 Currently learning Rust, Processing, Arduino 
+- 🌱 Currently learning HTML, CSS, Javascript 
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff
