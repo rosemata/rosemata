@@ -19,27 +19,18 @@
 
 
 ## Projects
-
-**2022**
-
 - SQL + Python : Analyzing Chicago Transit Authority database in Python: https://replit.com/join/dtemwcclhn-rosellemata2
 - Arduino + Python: Input based game control with Arduino buttons and Python: https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
 - Java : Keno Game: https://github.com/rosemata/Keno-Game
 - Java : Coffee Maker App: https://github.com/rosemata/Coffee-Maker
 - F# : Image Processing with F#: https://github.com/rosemata/Image-Processing
 - C : Build simple shell compiler with C
-
-**2021**
-
 - C++ : Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 - C++ : Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 - C++ : DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
 - C : Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
 - C : Input Based Array Project : https://github.com/rosemata/Input-Based-Array-Project
 - C : Functions-operating-on-2D-Arrays-and-Strings : https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
-
-**2020**
-
 - Python: Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
 - Python: Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
 
