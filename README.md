@@ -4,7 +4,7 @@
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff
-- 📫 Reach me: http://www.linkedin.com/in/rosellemata or roselle.tmata@gmail.com
+- 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com
 - 📝 Resume: https://drive.google.com/file/d/1MpenaXC_Ec1VGO-jbKICI0gfOr-yupBk/view?usp=sharing
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I grew up in an island but I don't know how to swim
