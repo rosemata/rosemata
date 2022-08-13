@@ -8,7 +8,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🧠  I'm learning Android and IOS Development * 
 
-🤝  I'm open to collaborating on any interesting projects! * ⚡  Fun fact: I went shark diving this summer
+🤝  I'm open to collaborating on any interesting projects! *
+
+🌱 Currently learning HTML, CSS, Javascript * 
+
+👯 Looking to collaborate on any Entry Level Project * 
+
+🤔 Interested in a SWE internship * 
+
+💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff * 
+
+📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
+
+📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing * 
+
+😄 Pronouns: She/Her/Hers * 
+
+⚡ Fun fact: I grew up in an island but I don't know how to swim * 
 
 ### Skills
 
