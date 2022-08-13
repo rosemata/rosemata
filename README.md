@@ -9,15 +9,6 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I grew up in an island but I don't know how to swim
 
- ### 👋 I have Experience working as 
-- Product Specialist at Apple (4 months - Seasonal)
-- Intern at Adams Street Partners (3 months)
-- Starbucks Barista (2 years)
-- Airport Passenger Assistant (1 year + 2 months)
-
-
-
-
 ## Projects
 - HTML, CSS, Javacript : Simple project where the page starts blurry and the image load up to 100% clearer: 
 
