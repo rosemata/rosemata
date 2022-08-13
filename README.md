@@ -1,4 +1,4 @@
-<--- ### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
+<!--- ### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
 
 - 🌱 Currently learning HTML, CSS, Javascript 
 - 👯 Looking to collaborate on any Entry Level Project
@@ -83,4 +83,4 @@ https://trinket.io/library/trinkets/e905a53257
 
 - Python: Game Project Catch the Stars, Avoid the Asteroids: 
 
-https://trinket.io/library/trinkets/a351b4e750 
+https://trinket.io/library/trinkets/a351b4e750 --->
