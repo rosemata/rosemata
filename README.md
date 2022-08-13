@@ -10,6 +10,15 @@
 - ⚡ Fun fact: I grew up in an island but I don't know how to swim
 
 ## Projects
+
+- JPMorgan Chase & Co. Software Engineering Virtual Internship
+
+https://github.com/rosemata/JPMorgan-Chase-Co.-Software-Engineering-Virtual-Experience
+
+- Jupyter Notebook extension with Python + SageMath: Model of Springs
+
+https://github.com/rosemata/Model_of_Springs
+
 - HTML, CSS, Javacript : Simple project where the page starts blurry and the image load up to 100% clearer: 
 
 https://github.com/rosemata/blurry-to-clear-loading-page 
