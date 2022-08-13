@@ -20,6 +20,7 @@
 
 ## Projects
 - HTML, CSS, Javacript : Simple project where the page starts blurry and the image load up to 100% clearer: 
+
 https://github.com/rosemata/blurry-to-clear-loading-page 
 
 - SQL + Python : Analyzing Chicago Transit Authority database in Python: 
