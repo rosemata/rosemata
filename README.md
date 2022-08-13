@@ -8,9 +8,7 @@ I've been coding for 3 years, looking to Graduate this December 2022. I am aspir
 
 ✉️  You can contact me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) * 
 
-🚀  I'm currently working on [IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
-
-🌱  I'm learning Android and IOS Development * 
+🌱  I'm currently working on [IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
 
 🤝  I'm open to collaborating on any interesting projects! *
 
