@@ -1,4 +1,4 @@
-### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
+<--- ### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
 
 - 🌱 Currently learning HTML, CSS, Javascript 
 - 👯 Looking to collaborate on any Entry Level Project
