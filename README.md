@@ -44,10 +44,13 @@ https://github.com/rosemata/Coffee-Maker
 https://github.com/rosemata/Image-Processing
 
 - C : Build simple shell compiler with C
-- 
+
 https://github.com/rosemata/Simple_C_Compiler_FrontEnd_Ncurses
 
-- C++ : Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
+- C++ : Personality test: 
+
+https://replit.com/join/xrfbnglbdh-rosellemata2
+https://github.com/rosemata/personality-test
 
 - C++ : Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
 - C++ : DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
