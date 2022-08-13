@@ -31,10 +31,18 @@ https://replit.com/join/dtemwcclhn-rosellemata2
 
 https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
 
+- Java : Keno Game: 
 
-- Java : Keno Game: https://github.com/rosemata/Keno-Game
-- Java : Coffee Maker App: https://github.com/rosemata/Coffee-Maker
-- F# : Image Processing with F#: https://github.com/rosemata/Image-Processing
+https://github.com/rosemata/Keno-Game
+
+- Java : Coffee Maker App: 
+
+https://github.com/rosemata/Coffee-Maker
+
+- F# : Image Processing with F#: 
+
+https://github.com/rosemata/Image-Processing
+
 - C : Build simple shell compiler with C
 - C++ : Personality test: https://replit.com/join/xrfbnglbdh-rosellemata2
 - C++ : Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
