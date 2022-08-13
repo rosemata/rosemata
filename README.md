@@ -50,11 +50,23 @@ https://github.com/rosemata/Simple_C_Compiler_FrontEnd_Ncurses
 - C++ : Personality test: 
 
 https://replit.com/join/xrfbnglbdh-rosellemata2
+
 https://github.com/rosemata/personality-test
 
-- C++ : Animated Bar Chart: https://replit.com/join/tyiwybudvj-rosellemata2
-- C++ : DNA Profiling: https://replit.com/join/uqimcndeum-rosellemata2
-- C : Balanced Symbol Checker: https://replit.com/join/mfbluvoigd-rosellemata2
+- C++ : Animated Bar Chart: 
+
+https://replit.com/join/tyiwybudvj-rosellemata2
+
+https://github.com/rosemata/animated_bar_chart
+
+- C++ : DNA Profiling: 
+
+https://replit.com/join/uqimcndeum-rosellemata2
+
+- C : Balanced Symbol Checker: 
+
+https://replit.com/join/mfbluvoigd-rosellemata2
+
 - C : Input Based Array Project : https://github.com/rosemata/Input-Based-Array-Project
 - C : Functions-operating-on-2D-Arrays-and-Strings : https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
 - Python: Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
