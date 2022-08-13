@@ -63,6 +63,8 @@ https://github.com/rosemata/animated_bar_chart
 
 https://replit.com/join/uqimcndeum-rosellemata2
 
+https://github.com/rosemata/DNA_Profiling
+
 - C : Balanced Symbol Checker: 
 
 https://replit.com/join/mfbluvoigd-rosellemata2
