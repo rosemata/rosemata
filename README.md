@@ -21,8 +21,14 @@
 ## Projects
 - HTML, CSS, Javacript : Simple project where the page starts blurry and the image load up to 100% clearer: 
 https://github.com/rosemata/blurry-to-clear-loading-page 
-- SQL + Python : Analyzing Chicago Transit Authority database in Python: https://replit.com/join/dtemwcclhn-rosellemata2
-- Arduino + Python: Input based game control with Arduino buttons and Python: https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
+
+- SQL + Python : Analyzing Chicago Transit Authority database in Python: 
+https://replit.com/join/dtemwcclhn-rosellemata2
+
+- Arduino + Python: Input based game control with Arduino buttons and Python: 
+https://github.com/rosemata/-Input-based-game-control-with-Arduino-buttons-and-Python
+
+
 - Java : Keno Game: https://github.com/rosemata/Keno-Game
 - Java : Coffee Maker App: https://github.com/rosemata/Coffee-Maker
 - F# : Image Processing with F#: https://github.com/rosemata/Image-Processing
