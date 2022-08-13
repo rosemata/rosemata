@@ -69,7 +69,18 @@ https://github.com/rosemata/DNA_Profiling
 
 https://replit.com/join/mfbluvoigd-rosellemata2
 
-- C : Input Based Array Project : https://github.com/rosemata/Input-Based-Array-Project
-- C : Functions-operating-on-2D-Arrays-and-Strings : https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
-- Python: Virtual Canvas Project using turtle: https://trinket.io/library/trinkets/e905a53257 
-- Python: Game Project Catch the Stars, Avoid the Asteroids: https://trinket.io/library/trinkets/a351b4e750 
+- C : Input Based Array Project : 
+
+https://github.com/rosemata/Input-Based-Array-Project
+
+- C : Functions-operating-on-2D-Arrays-and-Strings : 
+
+https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
+
+- Python: Virtual Canvas Project using turtle: 
+
+https://trinket.io/library/trinkets/e905a53257 
+
+- Python: Game Project Catch the Stars, Avoid the Asteroids: 
+
+https://trinket.io/library/trinkets/a351b4e750 
