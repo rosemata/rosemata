@@ -22,7 +22,7 @@ I've been coding for 3 years, looking to Graduate this December 2022. I am aspir
 
 😄 Pronouns: She/Her/Hers * 
 
-⚡ Fun fact: I have went shark diving * 
+⚡ Fun fact: I went shark diving this summer * 
 
 ### Skills
 
