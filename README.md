@@ -4,6 +4,7 @@
 
 #### I've been coding for 3 years, looking to Graduate this December 2022. I am aspiring for a role in Software Engineering, Computer Science, or related field. I'm a little bit of everything and I'm not scared to explore opportunities. I have wide variety of technical experiences, 6+ years in customer service, providing personalized solutions to distinct project/supervisor demands, working in a busy environment and in a diverse team of 2-50+ associates.  * 
 
+
 🌍  I'm based in Chicago (can relocate or work remote) * 
 
 ✉️  You can contact me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) * 
