@@ -9,8 +9,7 @@
 
 ✉️  You can contact me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) * 
 
-👩🏻‍💻  The classes I'm taking are 
-
+👩🏻‍💻  The classes I'm taking are:
      * [ ] CS 411 - Artificial Intelligence
      * [ ] CS 401 - Computer Algorithms
      * [ ] CS 422 - User Interface Design and Programming
