@@ -13,9 +13,9 @@
 
    * [ ] CS 411 - Artificial Intelligence
    * [ ] CS 401 - Computer Algorithms
-   * [ ] CS 484 - Web Development
-   * [ ] CS 478 - Software Development for Mobile Platforms
    * [ ] CS 422 - User Interface Design and Programming
+   * [ ] CS 478 - Software Development for Mobile Platforms
+   * [ ] CS 484 - Web Development
 
 🌱  I'm currently working on [IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
 
