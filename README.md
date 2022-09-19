@@ -134,6 +134,11 @@ https://trinket.io/library/trinkets/a351b4e750
 
 <a href="https://www.buymeacoffee.com/rosemata"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+![qr_code_resume_rtm](https://user-images.githubusercontent.com/93716153/191054417-75ec91e7-07f2-4315-a0a7-0d84a14e797a.png)
+
+![qr_code_linkedin](https://user-images.githubusercontent.com/93716153/191054466-bb04005e-0846-479e-9b37-6b7be432555d.png)
+
+
 <!--- ### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
 
 - 🌱 Currently learning HTML, CSS, Javascript 
