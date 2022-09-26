@@ -15,7 +15,7 @@
    * [ ] CS 478 - Software Development for Mobile Platforms
    * [ ] CS 484 - Web Development
 
-🌱  I'm currently working on [IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
+🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
 
 🤝  I'm open to collaborating on any interesting projects! *
 
