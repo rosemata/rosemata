@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata 
 
-#### Hi I'm a Senior Computer Science Student at the University of Illinois at Chicago, looking to Graduate this December 2022. I am aspiring for a role in Software Engineering, Computer Science, or related field. I'm a little bit of everything and I'm not scared to explore opportunities. I have wide variety of technical experiences (web development, ios and android development, IT, data management, programming languages, troubleshooting apple products, etc.), 5+ years experience in customer service, providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. 
+#### Hi I'm a Computer Science Student at the University of Illinois at Chicago, looking to Graduate  December 2022. Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. 
 
 
 🌍  I'm based in Chicago (can relocate or work remote) * 
