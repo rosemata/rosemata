@@ -12,7 +12,7 @@
    * [ ] CS 411 - Artificial Intelligence
    * [ ] CS 401 - Computer Algorithms
    * [ ] CS 422 - User Interface Design and Programming
-   * [ ] CS 478 - Software Development for Mobile Platforms
+   * [ ] CS 478 - Software Development for Mobile Platforms (Android)
    * [ ] CS 484 - Web Development
 
 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
