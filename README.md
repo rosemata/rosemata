@@ -50,6 +50,10 @@
 
 ## Projects
 
+- iOS Apps
+
+- Android Apps
+
 - JPMorgan Chase & Co. Software Engineering Virtual Internship
 
 https://github.com/rosemata/JPMorgan-Chase-Co.-Software-Engineering-Virtual-Experience
