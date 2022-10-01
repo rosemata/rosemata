@@ -50,13 +50,17 @@
 
 ## Projects
 
-- iOS Apps
+- iOS Apps with Swift
 
 in progress 👷🏻‍♀️
 
-- Android Apps
+- Android Apps with Java
 
 in progress 👷🏻‍♀️
+
+- 15 Sliding Puzzle Game with Python
+
+in progress 👷🏻
 
 - JPMorgan Chase & Co. Software Engineering Virtual Internship
 
