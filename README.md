@@ -52,6 +52,10 @@
 
 - iOS Apps with Swift
 
+Display movies 
+
+TWitter Cone
+
 in progress 👷🏻‍♀️
 
 - Android Apps with Java
