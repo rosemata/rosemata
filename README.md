@@ -52,7 +52,11 @@
 
 - iOS Apps
 
+in progress 👷🏻‍♀️
+
 - Android Apps
+
+in progress 👷🏻‍♀️
 
 - JPMorgan Chase & Co. Software Engineering Virtual Internship
 
