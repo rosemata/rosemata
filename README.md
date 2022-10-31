@@ -30,7 +30,7 @@
 
 😄 Pronouns: She/Her/Hers * 
 
-⚡ Fun fact: I went shark diving * 
+⚡ Fun fact: I have went shark diving * 
 
 ### Skills
 
