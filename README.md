@@ -9,15 +9,27 @@
 
 ✉️  You can contact me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) * 
 
-👩🏻‍💻  Cources I took at University of Illinois at Chicago
+👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
 
    * [x] CS 411 - Artificial Intelligence
    * [x] CS 401 - Computer Algorithms
-   * [x] CS 422 - User Interface Design and Programming
+   * [x] CS 422 - User Interface Design and Programming (Android, HTML, CSS, Javascript)
    * [x] CS 478 - Software Development for Mobile Platforms (Android)
-   * [x] CS 484 - Secure Web App Development
+   * [x] CS 484 - Secure Web App Development (Javascript, React JS)
    * [x] MCS 320 - Intro to Symbolic Computation 
-   * [x]  
+   * [x] CS 480 - Database Systems (Python, SQL)
+   * [x] CS 362 - Computer Design (Arduino)
+   * [x] CS 361 - Systems Programming (C, Rust)
+   * [x] CS 342 - Software Design (Java)
+   * [x] CS 341 - Programming Language Concepts (Python, F#, SQL, Processing)
+   * [x] CS 377 - Communication and Ethics 
+   * [x] CS 301 - Languages and Automata
+   * [x] CS 261 - Machine Organization (C)
+   * [x] CS 251 - Data Structures (C++)
+   * [x] CS 211 - Programming Practicum (C)
+   * [x] CS 151 - Foundations of Computing (C++)
+   * [x] CS 141 - Programming Desgin II (C++)
+   * [x] CS 111 - Program Design I (Python)
 
 
 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
