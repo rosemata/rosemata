@@ -24,10 +24,9 @@ As a recent computer science graduate from the University of Illinois at Chicago
 
 😄 Pronouns: She/Her/Hers * 
 
-⚡ Fun fact: I have went shark diving * 
+⚡ Fun fact: I grew up in a small island from the Philippines for 15 years and I don't know how to swim * 
 
-🏅 I may not be the smartest, but I can work the hardest. 
-
+<!-- 🏅 I may not be the smartest, but I can work the hardest.  -->
 
 ### 👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
 
