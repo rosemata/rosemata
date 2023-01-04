@@ -1,17 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata
 ### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. Throughout my academic career, I gained a strong foundation in various programming languages, data structures, and algorithms. I also had the opportunity to participate in several tech conferences and team-based projects, which helped me develop strong collaboration and communication skills. In my free time, I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer.
 
-<!-- #### Hi I'm a Computer Science Student at the University of Illinois at Chicago, looking to Graduate  December 2022. Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. 
- -->
-
-<!-- 🌍  I'm based in Chicago (can relocate or work remote) *  -->
-
-
-<!-- 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
-
-
-📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
-🤔 Interested in mentorship programs *  -->
 💬 Ask me about C++| C | Java | Python| F#| JavaScript| CSS| HTML| MySQL| Processing| Arduino or any tech related stuff * 
 
 🤝  I'm open to collaborating on any interesting projects! *
@@ -45,18 +34,18 @@
    * [x] CS 141 - Programming Desgin II _**(C++)**_
    * [x] CS 111 - Program Design I _**(Python)**_
 
-### Online courses and certificates I took 🌱
+## Online courses and certificates I took 🌱
 
    * [x] Intermediate iOS Development - 2022
    * [x] Intemediate Software Engineering - 2022
    * [x] JPMorgan Chase & Co. Software Engineering Virtual Experience - 2022
    * [x] Technical Support Fundamentals - 2020
 
-### Skills
+## Skills
 
 <p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p> 
  
- ### Socials  <p align="left"> <a href="https://www.github.com/rosemata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rtmata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ ## Socials  <p align="left"> <a href="https://www.github.com/rosemata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rtmata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
 <b>My GitHub Stats</b>
 
@@ -245,3 +234,16 @@ https://trinket.io/library/trinkets/e905a53257
 https://trinket.io/library/trinkets/a351b4e750 --->
 
 <!-- ✉️  You can reach me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) or http://www.linkedin.com/in/rtmata *  -->
+
+
+<!-- #### Hi I'm a Computer Science Student at the University of Illinois at Chicago, looking to Graduate  December 2022. Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. 
+ -->
+
+<!-- 🌍  I'm based in Chicago (can relocate or work remote) *  -->
+
+
+<!-- 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
+
+
+📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
+🤔 Interested in mentorship programs *  -->
