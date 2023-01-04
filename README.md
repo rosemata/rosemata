@@ -38,12 +38,18 @@
    * [x] CS 141 - Programming Desgin II _**(C++)**_
    * [x] CS 111 - Program Design I _**(Python)**_
 
+## 🌱 Online courses and certificates I took
 
-🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
+   * [x] Intermediate iOS Development - 2022
+   * [x] Intemediate Software Engineering - 2022
+   * [x] JPMorgan Chase & Co. Software Engineering Virtual Experience - 2022
+   * [x] Technical Support Fundamentals - 2020
+
+<!-- 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
 
 🤝  I'm open to collaborating on any interesting projects! *
 
-🤔 Interested in mentorship programs * 
+🤔 Interested in mentorship programs *  -->
 
 💬 Ask me about C++| C | Java | Python| F#| JavaScript| CSS| HTML| MySQL| Processing| Arduino or any tech related stuff * 
 
