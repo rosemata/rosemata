@@ -33,13 +33,26 @@
    * [x] CS 151 - Foundations of Computing_** (C++)**_
    * [x] CS 141 - Programming Desgin II _**(C++)**_
    * [x] CS 111 - Program Design I _**(Python)**_
+ 
+## Organizations joined at University of Illinois at Chicago
+   * [x] Society of Women Engineers (2018-2022)
+   * [x] Women in Computer Science (2019-2022)
+   * [x] Womens Frisbee Club (2020-2022) 
 
-## Online courses and certificates I took 🌱
+## Online Courses and Certificates 🌱
 
    * [x] Intermediate iOS Development - 2022
    * [x] Intemediate Software Engineering - 2022
    * [x] JPMorgan Chase & Co. Software Engineering Virtual Experience - 2022
    * [x] Technical Support Fundamentals - 2020
+
+## Events, Conferences and Hackathons
+
+  * [x] Hackathon - Fitch 2022 Codeathon for Education 2022
+  * [x] Society of Women Engineers Conference 2022
+  * [x] Grace Hopper Conference 2022
+  * [x] Society of Women Engineers Conference 2022
+  * [x] Speaker - Filipinas in Computing (Filipino-American History Month, Cybersecurity Awareness Month) 2022
 
 ## Skills
 
