@@ -1,5 +1,4 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata 
-
 ✉️  You can contact me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) * 
 
 #### As a recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. 
