@@ -13,7 +13,7 @@
 
 😄 Pronouns: She/Her/Hers * 
 
-⚡ Fun fact: I grew up in a small island (Philippines) and I don't know how to swim * 
+⚡ Fun fact: I grew up in a small island (Philippines) but I don't know how to swim * 
 
 <!-- 🏅 I may not be the smartest, but I can work the hardest.  -->
 
