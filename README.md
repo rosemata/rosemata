@@ -17,7 +17,26 @@
 <!-- 🌍  I'm based in Chicago (can relocate or work remote) *  -->
 
 
-## 👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
+<!-- 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
+
+🤝  I'm open to collaborating on any interesting projects! *
+
+🤔 Interested in mentorship programs *  -->
+
+💬 Ask me about C++| C | Java | Python| F#| JavaScript| CSS| HTML| MySQL| Processing| Arduino or any tech related stuff * 
+
+📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
+
+📝 Resume: https://drive.google.com/file/d/1o3BMrYAqXwypgHQO0kMvaFh6C82D5uKb/view?usp=sharing * 
+
+😄 Pronouns: She/Her/Hers * 
+
+⚡ Fun fact: I have went shark diving * 
+
+🏅 I may not be the smartest, but I can work the hardest. 
+
+
+### 👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
 
    * [x] CS 411 - Artificial Intelligence
    * [x] CS 401 - Computer Algorithms
@@ -39,34 +58,12 @@
    * [x] CS 141 - Programming Desgin II _**(C++)**_
    * [x] CS 111 - Program Design I _**(Python)**_
 
-
-
-## 🌱 Online courses and certificates I took
+### 🌱 Online courses and certificates I took
 
    * [x] Intermediate iOS Development - 2022
    * [x] Intemediate Software Engineering - 2022
    * [x] JPMorgan Chase & Co. Software Engineering Virtual Experience - 2022
    * [x] Technical Support Fundamentals - 2020
-
-
-
-<!-- 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
-
-🤝  I'm open to collaborating on any interesting projects! *
-
-🤔 Interested in mentorship programs *  -->
-
-💬 Ask me about C++| C | Java | Python| F#| JavaScript| CSS| HTML| MySQL| Processing| Arduino or any tech related stuff * 
-
-📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
-
-📝 Resume: https://drive.google.com/file/d/1o3BMrYAqXwypgHQO0kMvaFh6C82D5uKb/view?usp=sharing * 
-
-😄 Pronouns: She/Her/Hers * 
-
-⚡ Fun fact: I have went shark diving * 
-
-🏅 I may not be the smartest, but I can work the hardest. 
 
 ### Skills
 
