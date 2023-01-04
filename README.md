@@ -53,6 +53,9 @@
   * [x] Grace Hopper Conference 2022
   * [x] Society of Women Engineers Conference 2022
   * [x] Speaker - Filipinas in Computing (Filipino-American History Month, Cybersecurity Awareness Month) 2022
+  * [x] Last Mile Education Scholarship Recipient 2022
+  * [x] Breakthrough Tech Sprintern 2021
+  * [x] Cisco CCL Mentee 2020
 
 ## Skills
 
