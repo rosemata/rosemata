@@ -28,7 +28,7 @@ As a recent computer science graduate from the University of Illinois at Chicago
 
 <!-- 🏅 I may not be the smartest, but I can work the hardest.  -->
 
-### 👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
+### CS Cources I took at University of Illinois at Chicago 👩🏻‍💻
 
    * [x] CS 411 - Artificial Intelligence
    * [x] CS 401 - Computer Algorithms
@@ -50,7 +50,7 @@ As a recent computer science graduate from the University of Illinois at Chicago
    * [x] CS 141 - Programming Desgin II _**(C++)**_
    * [x] CS 111 - Program Design I _**(Python)**_
 
-### 🌱 Online courses and certificates I took
+### Online courses and certificates I took 🌱
 
    * [x] Intermediate iOS Development - 2022
    * [x] Intemediate Software Engineering - 2022
