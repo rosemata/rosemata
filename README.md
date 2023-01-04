@@ -13,8 +13,8 @@
 
    * [x] CS 411 - Artificial Intelligence
    * [x] CS 401 - Computer Algorithms
-   * [x] CS 422 - User Interface Design (Android, HTML, CSS, Javascript)
-   * [x] CS 478 - Software Development for Mobile Platforms (Android)
+   * [x] CS 422 - User Interface Design _**(Android, HTML, CSS, Javascript)**_
+   * [x] CS 478 - Software Development for Mobile Platforms **(Android)**
    * [x] CS 484 - Secure Web App Development (Javascript, React JS)
    * [x] MCS 320 - Intro to Symbolic Computation 
    * [x] CS 480 - Database Systems (Python, SQL)
