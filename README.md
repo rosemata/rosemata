@@ -15,21 +15,21 @@
    * [x] CS 401 - Computer Algorithms
    * [x] CS 422 - User Interface Design _**(Android, HTML, CSS, Javascript)**_
    * [x] CS 478 - Software Development for Mobile Platforms **(Android)**
-   * [x] CS 484 - Secure Web App Development (Javascript, React JS)
+   * [x] CS 484 - Secure Web App Development **_(Javascript, React JS)_**
    * [x] MCS 320 - Intro to Symbolic Computation 
-   * [x] CS 480 - Database Systems (Python, SQL)
-   * [x] CS 362 - Computer Design (Arduino)
-   * [x] CS 361 - Systems Programming (C, Rust)
-   * [x] CS 342 - Software Design (Java)
-   * [x] CS 341 - Programming Language Concepts (Python, F#, SQL, Processing)
+   * [x] CS 480 - Database Systems _**(Python, SQL)**_
+   * [x] CS 362 - Computer Design _**(Arduino)**_
+   * [x] CS 361 - Systems Programming _**(C, Rust)**_
+   * [x] CS 342 - Software Design _**(Java)**_
+   * [x] CS 341 - Programming Language Concepts _**(Python, F#, SQL, Processing)**_
    * [x] CS 377 - Communication and Ethics 
    * [x] CS 301 - Languages and Automata
-   * [x] CS 261 - Machine Organization (C)
-   * [x] CS 251 - Data Structures (C++)
-   * [x] CS 211 - Programming Practicum (C)
-   * [x] CS 151 - Foundations of Computing (C++)
-   * [x] CS 141 - Programming Desgin II (C++)
-   * [x] CS 111 - Program Design I (Python)
+   * [x] CS 261 - Machine Organization _**(C)**_
+   * [x] CS 251 - Data Structures _**(C++)**_
+   * [x] CS 211 - Programming Practicum _**(C)**_
+   * [x] CS 151 - Foundations of Computing_** (C++)**_
+   * [x] CS 141 - Programming Desgin II _**(C++)**_
+   * [x] CS 111 - Program Design I _**(Python)**_
 
 
 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
