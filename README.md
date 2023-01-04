@@ -16,7 +16,7 @@
 
 <!-- 🌍  I'm based in Chicago (can relocate or work remote) *  -->
 
-👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
+## 👩🏻‍💻  CS Cources I took at University of Illinois at Chicago
 
    * [x] CS 411 - Artificial Intelligence
    * [x] CS 401 - Computer Algorithms
