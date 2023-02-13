@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata
-### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. Throughout my academic career, I gained a strong foundation in various programming languages, data structures, and algorithms. I also had the opportunity to participate in several tech conferences and team-based projects, which helped me develop strong collaboration and communication skills. In my free time, I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer.
+#### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. Throughout my academic career, I gained a strong foundation in various programming languages, data structures, and algorithms. I also had the opportunity to participate in several tech conferences and team-based projects, which helped me develop strong collaboration and communication skills. In my free time, I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer.
 
 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
 
@@ -9,7 +9,7 @@
 
 🤝  I'm open to collaborating on any interesting projects! *
 
-📝 Resume: https://drive.google.com/file/d/1o3BMrYAqXwypgHQO0kMvaFh6C82D5uKb/view?usp=sharing * 
+📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing * 
 
 😄 Pronouns: She/Her/Hers * 
 
