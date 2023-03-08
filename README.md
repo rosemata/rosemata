@@ -60,6 +60,7 @@
 
 ## Events, Conferences and Hackathons
 
+  * [x] Harvard WE Code Conference 2023
   * [x] Hackathon - Fitch 2022 Codeathon for Education 2022
   * [x] Society of Women Engineers Conference 2022
   * [x] Grace Hopper Conference 2022
