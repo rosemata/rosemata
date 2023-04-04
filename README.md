@@ -1,5 +1,5 @@
  # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata 
- ### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022). 🌱
+ ### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022) 🌱
  
  📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
 
