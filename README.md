@@ -67,7 +67,7 @@
   * [x] Breakthrough Tech Sprintern 2021
   * [x] Cisco CCL Mentee 2020
  
-<b>My GitHub Stats</b>
+## <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rosemata"><img src="https://github-readme-stats.vercel.app/api?username=rosemata&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rosemata's GitHub stats" /></a>
 
@@ -77,7 +77,7 @@
 
 <a href="https://github.com/rosemata" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemata&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
-### The RichardStep Strengths and Weaknesses Aptitude Test 
+## The RichardStep Strengths and Weaknesses Aptitude Test 
 
 
 <img width="744" alt="Screenshot 2023-04-04 at 6 05 59 PM" src="https://user-images.githubusercontent.com/93716153/229941741-138410d3-fc54-43ca-8205-15d4b76506e6.png">
