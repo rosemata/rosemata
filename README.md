@@ -1,4 +1,8 @@
-<!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) bio under maintainance, be back soon :construction_worker:
+
+Reach me: https://www.linkedin.com/in/rtmata/
+
+<!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata
 #### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer.
  #### I aspire to bring meaningful change 
 
