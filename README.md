@@ -1,8 +1,26 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) bio under maintainance, be back soon :construction_worker:
+ # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata a recent computer science graduate from the University of Illinois at Chicago (December 2022)
+<!-- 
+- 🌱 Currently learning HTML, CSS, Javascript 
+
+
+- 👯 Looking to collaborate on any Entry Level Project
+
+- 🤔 Interested in a SWE internship
+
+- 💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff
+
+- 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com
+
+- 📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing
+
+- 😄 Pronouns: She/Her/Hers
+
+- ⚡ Fun fact: I grew up in an island but I don't know how to swim -->
+<!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) bio under maintainance, be back soon :construction_worker:
 
 Reach me: https://www.linkedin.com/in/rtmata/
 
-<!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata
+ # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata
 #### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer.
  #### I aspire to bring meaningful change 
 
@@ -174,16 +192,8 @@ https://trinket.io/library/trinkets/a351b4e750
 <a href="https://www.buymeacoffee.com/rosemata"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
 
-- 🌱 Currently learning HTML, CSS, Javascript 
-- 👯 Looking to collaborate on any Entry Level Project
-- 🤔 Interested in a SWE internship
-- 💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff
-- 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com
-- 📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I grew up in an island but I don't know how to swim
+
 
 ## Projects
 
