@@ -80,9 +80,9 @@
 ### The RichardStep Strengths and Weaknesses Aptitude Test 
 
 
-<img width="372" alt="Screenshot 2023-04-04 at 6 05 59 PM" src="https://user-images.githubusercontent.com/93716153/229941741-138410d3-fc54-43ca-8205-15d4b76506e6.png">
+<img width="744" alt="Screenshot 2023-04-04 at 6 05 59 PM" src="https://user-images.githubusercontent.com/93716153/229941741-138410d3-fc54-43ca-8205-15d4b76506e6.png">
 
-<img width="373" alt="Screenshot 2023-04-04 at 6 06 06 PM" src="https://user-images.githubusercontent.com/93716153/229941749-19999021-0fc7-412e-a25d-06e3c3516c1d.png">
+<img width="744" alt="Screenshot 2023-04-04 at 6 06 06 PM" src="https://user-images.githubusercontent.com/93716153/229941749-19999021-0fc7-412e-a25d-06e3c3516c1d.png">
 
 
 <!-- 
