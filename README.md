@@ -1,8 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata
+<!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata
 #### 👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer.
-<!-- #### I aspire to bring meaningful change 
+ #### I aspire to bring meaningful change 
 
-👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. Throughout my academic career, I gained a strong foundation in various programming languages, data structures, and algorithms. I also had the opportunity to participate in several tech conferences and team-based projects, which helped me develop strong collaboration and communication skills. In my free time, I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer. -->
+👩🏻‍💻 A recent computer science graduate from the University of Illinois at Chicago (December 2022), I am excited to apply my skills and knowledge to new and challenging opportunities in the tech industry. Throughout my academic career, I gained a strong foundation in various programming languages, data structures, and algorithms. I also had the opportunity to participate in several tech conferences and team-based projects, which helped me develop strong collaboration and communication skills. In my free time, I enjoy staying up-to-date with the latest developments in the tech world by earning online certificates, exploring new programming languages and frameworks. I am eager to join a dynamic and innovative team where I can continue to learn and grow as a software developer. 
 
 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
 
@@ -18,7 +18,7 @@
 
 ⚡ Fun fact: I grew up in a small island (Philippines) but I don't know how to swim * 
 
-<!-- 🏅 I may not be the smartest, but I can work the hardest.  -->
+🏅 I may not be the smartest, but I can work the hardest.
 
 
 ## Skills
@@ -46,7 +46,7 @@
    * [x] CS 211 - Programming Practicum _**(C)**_
    * [x] CS 151 - Foundations of Computing_** (C++)**_
    * [x] CS 141 - Programming Desgin II _**(C++)**_
-   * [x] CS 111 - Program Design I _**(Python)**_ -->
+   * [x] CS 111 - Program Design I _**(Python)**_ 
  
 ## Organizations joined at University of Illinois at Chicago
    * [x] Society of Women Engineers (2018-2022)
@@ -80,7 +80,7 @@
 
 <!-- <a href="http://www.github.com/rosemata"><img src="https://activity-graph.herokuapp.com/graph?username=rosemata&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/rosemata" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemata&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/rosemata" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemata&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
 
 ## Projects
@@ -170,8 +170,7 @@ https://trinket.io/library/trinkets/a351b4e750
 <a href="https://www.buymeacoffee.com/rosemata"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-
-<!--- ### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
+### Hi, I'm Roselle Mata! 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
 
 - 🌱 Currently learning HTML, CSS, Javascript 
 - 👯 Looking to collaborate on any Entry Level Project
@@ -256,19 +255,18 @@ https://trinket.io/library/trinkets/e905a53257
 
 - Python: Game Project Catch the Stars, Avoid the Asteroids: 
 
-https://trinket.io/library/trinkets/a351b4e750 --->
+https://trinket.io/library/trinkets/a351b4e750 
 
-<!-- ✉️  You can reach me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) or http://www.linkedin.com/in/rtmata *  -->
-
-
-<!-- #### Hi I'm a Computer Science Student at the University of Illinois at Chicago, looking to Graduate  December 2022. Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. 
- -->
-
-<!-- 🌍  I'm based in Chicago (can relocate or work remote) *  -->
+ ✉️  You can reach me at [roselle.tmata@gmail.com](mailto:roselle.tmata@gmail.com) or http://www.linkedin.com/in/rtmata * 
 
 
-<!-- 🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
+#### Hi I'm a Computer Science Student at the University of Illinois at Chicago, looking to Graduate  December 2022. Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. 
+
+ 🌍  I'm based in Chicago (can relocate or work remote) * 
+
+
+🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
 
 
 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
-🤔 Interested in mentorship programs *  -->
+🤔 Interested in mentorship programs *  --->
