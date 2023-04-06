@@ -1,13 +1,13 @@
  # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata 
- ### 👩🏻‍💻 recent Computer Science graduate from the University of Illinois at Chicago (Dec 2022) 🌱
+👩🏻‍💻 A recent Computer Science graduate from the University of Illinois at Chicago (Dec 2022) 🌱
  
- 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
+📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
 
-🌍  I'm based in Chicago (can relocate or work remote) * 
+🌍 I'm based in Chicago (can relocate or work remote) * 
 
 💬 Ask me about C++| C | Java | Python| F#| JavaScript| CSS| HTML| MySQL| Processing| Arduino or any tech related stuff * 
 
-🤝  I'm open to collaborating on any interesting projects! *
+🤝 I'm open to collaborating on any interesting projects! *
 
 📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing * 
 
