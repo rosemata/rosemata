@@ -22,6 +22,18 @@
  
 ## Socials  <p align="left"> <a href="https://www.github.com/rosemata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rtmata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+
+## Events, Conferences and Hackathons
+
+  * [x] Harvard WE Code Conference Feb 2023
+  * [x] Hackathon - 2nd place; Fitch 2022 Codeathon for Education Dec 2022
+  * [x] Society of Women Engineers Conference 2022
+  * [x] Grace Hopper Conference 2022
+  * [x] Speaker - Filipinas in Computing (Filipino-American History Month, Cybersecurity Awareness Month) Oct 2022
+  * [x] Last Mile Education Scholarship Recipient 2022
+  * [x] Breakthrough Tech Sprintern 2021
+  * [x] Cisco CCL Mentee 2020
+
 ## CS Cources I took at University of Illinois at Chicago 👩🏻‍💻
    * [x] CS 411 - Artificial Intelligence
    * [x] CS 401 - Computer Algorithms
@@ -54,18 +66,6 @@
    * [x] Intemediate Software Engineering - 2022
    * [x] JPMorgan Chase & Co. Software Engineering Virtual Experience - 2022
    * [x] Technical Support Fundamentals - 2020
-
-## Events, Conferences and Hackathons
-
-  * [x] Harvard WE Code Conference 2023
-  * [x] Hackathon - Fitch 2022 Codeathon for Education 2022
-  * [x] Society of Women Engineers Conference 2022
-  * [x] Grace Hopper Conference 2022
-  * [x] Society of Women Engineers Conference 2022
-  * [x] Speaker - Filipinas in Computing (Filipino-American History Month, Cybersecurity Awareness Month) 2022
-  * [x] Last Mile Education Scholarship Recipient 2022
-  * [x] Breakthrough Tech Sprintern 2021
-  * [x] Cisco CCL Mentee 2020
  
 ## <b>My GitHub Stats</b>
 
