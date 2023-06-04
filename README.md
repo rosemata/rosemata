@@ -27,8 +27,9 @@
 ## Socials  <p align="left"> <a href="https://www.github.com/rosemata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rtmata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-## Events, Conferences and Hackathons
+## Events, Conferences, Volunteers and Hackathons
 
+  * [x] Summer 2023 Codepath Technical Coach
   * [x] Harvard WE Code Conference Feb 2023
   * [x] Hackathon - 2nd place; Fitch 2022 Codeathon for Education Dec 2022
   * [x] Society of Women Engineers Conference 2022
