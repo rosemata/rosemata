@@ -1,5 +1,8 @@
- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roselle Mata 
-👩🏻‍💻 A recent graduate from the University of Illinois at Chicago (Dec 2022) with B.S. in Computer Science 🌱
+ # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Roselle Mata 
+ 
+👩🏻‍💻 Software Engineer (Tech. Analyst Program) at Bank of America
+
+👩🏻‍🎓 A recent graduate from the University of Illinois at Chicago (Dec 2022) with B.S. in Computer Science 🌱
  
 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com * 
 
