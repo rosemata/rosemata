@@ -29,6 +29,7 @@
 
 ## Events, Conferences, Volunteers and Hackathons
 
+  * [ ] Grace Hopper Conference Scholar 2023
   * [x] Summer 2023 Codepath Technical Coach
   * [x] Harvard WE Code Conference Feb 2023
   * [x] Hackathon - 2nd place; Fitch 2022 Codeathon for Education Dec 2022
