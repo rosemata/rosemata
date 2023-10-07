@@ -29,7 +29,8 @@
 
 ## Events, Conferences, Volunteers and Hackathons
 
-  * [ ] Grace Hopper Conference Scholar 2023
+  * [x] Grace Hopper Conference Scholar 2023
+  * [x] TechCrunch Disrupt 2023
   * [x] Speaker - AnitaB.org "Finding Professional Confidence at Any Career Level"
   * [x] Summer 2023 Codepath Technical Coach (Python, Java)
   * [x] Harvard WE Code Conference Feb 2023
